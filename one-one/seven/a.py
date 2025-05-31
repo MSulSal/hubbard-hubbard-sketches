@@ -28,5 +28,5 @@ ax.set_box_aspect([1, 1, 1])
 ax.tick_params(labelsize=12)
 
 plt.tight_layout()
-plt.savefig("vector_field_a.png", dpi=600, bbox_inches="tight")
+plt.savefig("one-one/seven/images/vector_field_a.png", dpi=600, bbox_inches="tight")
 plt.show()
